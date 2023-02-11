@@ -1,3 +1,5 @@
-public class Main {
-
+/**
+ * hello
+ */
+public class hello {
 }
